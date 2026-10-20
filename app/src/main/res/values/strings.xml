@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practica2.3</string>
+    <string name="materia">Desarrollo de Aplicaciones Móviles</string>
+    <string name="nombre" translatable="false">Eduardo</string>
+    <string name="apellido" translatable="false">Cadengo</string>
+    <string name="home_screen">Página Principal</string>
+    <string name="back_btn_desc">Botón regresar</string>
+    <string name="bottom_app_bar">Barra Inferior</string>
+    <string name="home_fab_text">Acción Rápida</string>
+</resources>

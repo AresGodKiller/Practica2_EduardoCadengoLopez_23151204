@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Practica2.3</string>
+    <string name="materia">Développement d\'Applications Mobiles</string>
+    <string name="home_screen">Page d\'accueil</string>
+    <string name="back_btn_desc">Bouton retour</string>
+    <string name="bottom_app_bar">Barre inférieure</string>
+    <string name="home_fab_text">Action rapide</string>
+</resources>
